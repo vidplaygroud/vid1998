@@ -1,0 +1,12 @@
+{
+  "data": {
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vidplaygroud/vid1998/apk/app-release-20230605.apk",
+    "updateContent": "更新描述",
+    "forceUpdate": false,
+    "title": "更新标题",
+    "version": "版本名称",
+    "md5": "文件md5值",
+    "filelength": 10704823,
+    "code": 20
+  }
+}
